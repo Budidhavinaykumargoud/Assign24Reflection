@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\bin\Debug\ReflectionAssign24.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\bin\Debug\ReflectionAssign24.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\bin\Debug\ReflectionAssign24.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\obj\Debug\ReflectionAssign24.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\obj\Debug\ReflectionAssign24.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\obj\Debug\ReflectionAssign24.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day19\ReflectionAssign24\ReflectionAssign24\obj\Debug\ReflectionAssign24.pdb
